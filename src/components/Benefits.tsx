@@ -6,7 +6,6 @@ import {
   Text,
   VStack,
   HStack,
-  Image,
   Icon,
 } from "@chakra-ui/react";
 import { TrendingUp, Users, BarChart3 } from "lucide-react";
